@@ -39,5 +39,4 @@ die im Hinweis-Kasten auf Seite 2 erscheint.
 
 ## Kontakt
 
-Insa Riese · insariese@gmail.com
-Mareike Kirch · mareike.kirch@googlemail.com
+Insa Riese und Mareike Kirch · riesekirch@gmail.com
